@@ -1,0 +1,7 @@
+C:\Work\Project\C#\Console\Join Text\Join Text\bin\Debug\Join Text.exe.config
+C:\Work\Project\C#\Console\Join Text\Join Text\bin\Debug\Join Text.exe
+C:\Work\Project\C#\Console\Join Text\Join Text\bin\Debug\Join Text.pdb
+C:\Work\Project\C#\Console\Join Text\Join Text\obj\Debug\Join Text.csproj.AssemblyReference.cache
+C:\Work\Project\C#\Console\Join Text\Join Text\obj\Debug\Join Text.csproj.CoreCompileInputs.cache
+C:\Work\Project\C#\Console\Join Text\Join Text\obj\Debug\Join Text.exe
+C:\Work\Project\C#\Console\Join Text\Join Text\obj\Debug\Join Text.pdb

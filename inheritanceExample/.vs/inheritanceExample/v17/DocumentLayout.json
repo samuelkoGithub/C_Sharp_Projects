@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{283D4871-35A9-43AA-8BAE-B555C4ED694F}|inheritanceExample.csproj|C:\\Work\\Project\\C#\\Console\\inheritanceExample\\fictionbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283D4871-35A9-43AA-8BAE-B555C4ED694F}|inheritanceExample.csproj|solutionrelative:fictionbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283D4871-35A9-43AA-8BAE-B555C4ED694F}|inheritanceExample.csproj|C:\\Work\\Project\\C#\\Console\\inheritanceExample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283D4871-35A9-43AA-8BAE-B555C4ED694F}|inheritanceExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283D4871-35A9-43AA-8BAE-B555C4ED694F}|inheritanceExample.csproj|c:\\work\\project\\c#\\console\\inheritanceexample\\romancebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283D4871-35A9-43AA-8BAE-B555C4ED694F}|inheritanceExample.csproj|solutionrelative:romancebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283D4871-35A9-43AA-8BAE-B555C4ED694F}|inheritanceExample.csproj|C:\\Work\\Project\\C#\\Console\\inheritanceExample\\comicbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283D4871-35A9-43AA-8BAE-B555C4ED694F}|inheritanceExample.csproj|solutionrelative:comicbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283D4871-35A9-43AA-8BAE-B555C4ED694F}|inheritanceExample.csproj|C:\\Work\\Project\\C#\\Console\\inheritanceExample\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283D4871-35A9-43AA-8BAE-B555C4ED694F}|inheritanceExample.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComicBook.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\ComicBook.cs",
+              "RelativeDocumentMoniker": "ComicBook.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\ComicBook.cs",
+              "RelativeToolTip": "ComicBook.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:00:03.075Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RomanceBook.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\RomanceBook.cs",
+              "RelativeDocumentMoniker": "RomanceBook.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\RomanceBook.cs",
+              "RelativeToolTip": "RomanceBook.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:04:55.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FictionBook.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\FictionBook.cs",
+              "RelativeDocumentMoniker": "FictionBook.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\FictionBook.cs",
+              "RelativeToolTip": "FictionBook.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:44:24.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:41:56.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\Console\\inheritanceExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:41:18.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
