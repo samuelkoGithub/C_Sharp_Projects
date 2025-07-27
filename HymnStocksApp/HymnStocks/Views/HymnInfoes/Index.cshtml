@@ -1,0 +1,69 @@
+﻿@model IEnumerable<HymnStocks.Models.HymnInfo>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>詩歌資料</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-controller="HymnInfoes" asp-action="Index" method="get">
+  <p>
+      Title: <input type="search" name="searchString" />
+      <input type="submit" value="Filter" />
+  </p>
+</form>
+<a asp-action="Index" class="=" text-dark">Back to full list</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HymnName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CopyRight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HymnLanguage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublishDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Remarks)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HymnName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CopyRight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HymnLanguage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublishDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Remarks)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

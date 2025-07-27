@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\views\\hymninfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\views\\hymninfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\controllers\\hymninfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\controllers\\hymninfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\models\\hymninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\models\\hymninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\data\\hymnstocksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\data\\hymnstocksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\views\\hymninfoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\views\\hymninfoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\areas\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\areas\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\data\\migrations\\20240802112731_addinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\data\\migrations\\20240802112731_addinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|c:\\work\\project\\c#\\mvc\\hymnstocksapp\\hymnstocks\\migrations\\20240802165906_initizationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F862890-AF32-4134-B47F-52358FDDACB9}|HymnStocks\\HymnStocks.csproj|solutionrelative:hymnstocks\\migrations\\20240802165906_initizationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HymnInfoesController.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Controllers\\HymnInfoesController.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Controllers\\HymnInfoesController.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Controllers\\HymnInfoesController.cs",
+              "RelativeToolTip": "HymnStocks\\Controllers\\HymnInfoesController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwC0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:57:07.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Views\\HymnInfoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "HymnStocks\\Views\\HymnInfoes\\Index.cshtml",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Views\\HymnInfoes\\Index.cshtml",
+              "RelativeToolTip": "HymnStocks\\Views\\HymnInfoes\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T17:11:02.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HymnInfo.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Models\\HymnInfo.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Models\\HymnInfo.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Models\\HymnInfo.cs",
+              "RelativeToolTip": "HymnStocks\\Models\\HymnInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:50:12.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HymnStocks\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HymnStocks\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T14:00:21.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HymnStocks\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HymnStocks\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T17:12:34.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Views\\HymnInfoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "HymnStocks\\Views\\HymnInfoes\\Create.cshtml",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Views\\HymnInfoes\\Create.cshtml",
+              "RelativeToolTip": "HymnStocks\\Views\\HymnInfoes\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:21:40.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Program.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Program.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Program.cs",
+              "RelativeToolTip": "HymnStocks\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:23:32.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HymnStocksDBContext.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Data\\HymnStocksDBContext.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Data\\HymnStocksDBContext.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Data\\HymnStocksDBContext.cs",
+              "RelativeToolTip": "HymnStocks\\Data\\HymnStocksDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:32:40.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240802165906_initizationDB.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Migrations\\20240802165906_initizationDB.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Migrations\\20240802165906_initizationDB.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Migrations\\20240802165906_initizationDB.cs",
+              "RelativeToolTip": "HymnStocks\\Migrations\\20240802165906_initizationDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:59:06.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "HymnStocks\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "HymnStocks\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T11:23:43.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "HymnStocks\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAUwGUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:22:43.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "HymnStocks\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAADwv4cAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:33:59.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Areas\\AppUser.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Areas\\AppUser.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Areas\\AppUser.cs",
+              "RelativeToolTip": "HymnStocks\\Areas\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:21:06.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HymnStocks\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "HymnStocks\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwC8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T13:22:41.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "HymnStocks\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "HymnStocks\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-02T11:32:55.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "HymnStocks\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "HymnStocks\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T13:27:20.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HymnStocks\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:24:18.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240802112731_addInfo.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Data\\Migrations\\20240802112731_addInfo.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Data\\Migrations\\20240802112731_addInfo.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Data\\Migrations\\20240802112731_addInfo.cs",
+              "RelativeToolTip": "HymnStocks\\Data\\Migrations\\20240802112731_addInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:27:31.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HymnStocks\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAApwBoBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:23:26.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "HymnStocks\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Work\\Project\\C#\\MVC\\HymnStocksApp\\HymnStocks\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "HymnStocks\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAApwEoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:22:08.816Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
